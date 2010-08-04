@@ -1,0 +1,8 @@
+Backup all MySQL Databases to Amazon S3
+
+Author: David Parrish <david@dparrish.com>
+Modified by: David Radcliffe <radcliffe.david@gmail.com>
+
+WARNING:
+  You must have an Amazon S3 account
+  You must install the Amazon::S3 perl module
